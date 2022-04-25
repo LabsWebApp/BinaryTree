@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trees", "Trees\Trees.csproj", "{D5FA295C-BBD2-4F28-B9BC-AB7D8F4A7AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "Tests\ConsoleTest\ConsoleTest.csproj", "{84B3BB83-A525-40BC-A998-FA475FE55D5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FA295C-BBD2-4F28-B9BC-AB7D8F4A7AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FA295C-BBD2-4F28-B9BC-AB7D8F4A7AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FA295C-BBD2-4F28-B9BC-AB7D8F4A7AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FA295C-BBD2-4F28-B9BC-AB7D8F4A7AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B3BB83-A525-40BC-A998-FA475FE55D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B3BB83-A525-40BC-A998-FA475FE55D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B3BB83-A525-40BC-A998-FA475FE55D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B3BB83-A525-40BC-A998-FA475FE55D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45429C1D-4754-4BB4-B2DD-EB313F6B5F66}
+	EndGlobalSection
+EndGlobal
